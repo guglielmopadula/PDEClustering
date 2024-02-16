@@ -16,4 +16,3 @@ An attempt of clustering of PDEs
 |LLE+BKmeans   |0.272                        |0.255                       |
 |LSTA+BKmeans  |0.462                        |0.47                        |
 
-Fixed README
