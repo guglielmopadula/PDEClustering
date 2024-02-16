@@ -2,6 +2,7 @@
 An attempt of clustering of PDEs
 
 |Model         |Train Missclassification Rate|Test Missclassification Rate|
+|--------------|-----------------------------|----------------------------|
 |Kmeans        |0.374                        |0.35                        |
 |Isomap+Kmeans |0.058                        |0.075                       |
 |LLE+Kmeans    |0.276                        |0.26                        |          
@@ -14,3 +15,5 @@ An attempt of clustering of PDEs
 |Isomap+BKmeans|0.058                        |0.075                       |
 |LLE+BKmeans   |0.272                        |0.255                       |
 |LSTA+BKmeans  |0.462                        |0.47                        |
+
+Fixed README
